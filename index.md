@@ -14,6 +14,7 @@ layout: default
   - Random Death Match: Teise karakteri ründamine ilma põhjusetta/lootta mis viib selleni.
     - Kui on tegu gang wariga, ei pea alati alustama olukorda enne üksteise tulistamist.
 - New Life Rule: Kui sa respawnid haiglas, sinu karakter unustab kõik sündmused mis viivad respawnimiseni selles situatsioonis. Sa ei tohi respawnida, kui politsei/kiirabi on teel.
+- Exploitimine on keelatud. Näiteks: Dupe-d asju et neid endale jätta ja ei reporti sellest. 
 
 
 ![Branching](jahpixel.png)
