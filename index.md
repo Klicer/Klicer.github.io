@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# JPRP Reeglid
+# Reeglid
 
 - Tõõtav, hea mikrofon on kohustuslik.
 - Toxic olemise tulemusena võidakse eemaldada teie whitelist/võite saada banni. Kui teil on millegiga probleem, lahendage se korralikult ja mitte draamaga.
