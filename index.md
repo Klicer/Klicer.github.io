@@ -11,7 +11,7 @@ There should be whitespace between paragraphs.
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # JPRP Reeglid
-### 
+
 - Tõõtav, hea mikrofon on kohustuslik.
 - Toxic olemise tulemusena võidakse eemaldada teie whitelist/võite saada banni. Kui teil on millegiga probleem, lahendage se korralikult ja mitte draamaga.
 - Jääge In-Characteri alati. Kui probleem on, RP selle situatsiooni välja ja hiljem põõrduge juhtkonna poole.
